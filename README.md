@@ -45,3 +45,5 @@ Taxas de crescimento do Brasil.
 Comparação entre as taxas de crescimento da Itália (em azul) e do Brasil (em vermelho).
 
 ![Comparação entre as taxas de crescimento da Itália (em azul) e do Brasil (em vermelho)](https://github.com/peixebabel/COVID-19/blob/master/imagens/crescimento-comparativo.png)
+
+Os dados foram retirados do Ministério da Saúde do Brasil e do https://www.worldometers.info/coronavirus/
