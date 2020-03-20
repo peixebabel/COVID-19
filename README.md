@@ -23,3 +23,15 @@ O notebook ```COVID-19_China.ipynb``` produz o gráfico apresentado na ![live do
 > Note que as medidas preventivas da China que pararam o país, tiveram início em 23/01/2020. Ainda assim, depois dessa data, foram registrados dezenas de milhares de casos, principalmente daqueles que já haviam sido infectados antes do lockdown.
 
 ![Casos por dia, China](https://github.com/peixebabel/COVID-19/blob/master/imagens/data-covid19-china.gif)
+
+## Comparação dos dados entre Itália e Brasil
+
+![Casos confirmados na Itália e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.](https://github.com/peixebabel/COVID-19/blob/master/imagens/covid-italia-projecao.png)
+
+![Taxas de crescimento da Itália](https://github.com/peixebabel/COVID-19/blob/master/imagens/crescimento-italia.png)
+
+![Casos confirmados no Brasil e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.](https://github.com/peixebabel/COVID-19/blob/master/imagens/covid-brasil-projecao.png)
+
+![Taxas de crescimento do Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/crescimento-brasil.png)
+
+![Comparação entre as taxas de crescimento da Itália (em azul) e do Brasil (em vermelho)](https://github.com/peixebabel/COVID-19/blob/master/imagens/crescimento-comparativo.png)
