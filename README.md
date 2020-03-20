@@ -19,7 +19,7 @@ O resultado do notebook mundial é um gif animado com o avanço dos casos **conf
 
 ## China
 
-O notebook ```COVID-19_China.ipynb``` produz o gráfico apresentado na ![live do Átila Iamarino](https://www.youtube.com/watch?v=7jHgS4yxS0A), doutor em virologia. 
+O notebook ```COVID-19_China.ipynb``` produz o gráfico apresentado na [live do Átila Iamarino](https://www.youtube.com/watch?v=7jHgS4yxS0A), doutor em virologia. 
 > Note que as medidas preventivas da China que pararam o país, tiveram início em 23/01/2020. Ainda assim, depois dessa data, foram registrados dezenas de milhares de casos, principalmente daqueles que já haviam sido infectados antes do lockdown.
 
 ![Casos por dia, China](https://github.com/peixebabel/COVID-19/blob/master/imagens/data-covid19-china.gif)
