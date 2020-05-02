@@ -6,7 +6,14 @@ O arquivo ```data/casos-br-total.csv``` até o momento trás o número total de 
 
 ![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/Confirmados-Total.png)
 
-## Mundo (Casos Confirmados)
+## Mundo 
+O notebook ```Crescimento_Mundial.ipynb``` traz análises comparativas de números e casos e óbitos dos 10 países mais afetados. O resultado desse script são as seguintes imagens (referentes a 02 de Maio):
+
+![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-02-05.jpg)
+
+![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-02-05.jpg)
+
+
 O notebook ```COVID-19_Mundial.ipynb``` compila as informações do mundo inteiro, divididas por região. As informações foram retiradas do repositório: https://github.com/CSSEGISandData/COVID-19 <br>
 O resultado do notebook mundial é um gif animado com o avanço dos casos **confirmados** ao redor do mundo.
 
