@@ -8,16 +8,18 @@ O script ```Obitos_BR_por_data.ipynb```replica o gif produzido pelo [Observatór
 
 ![Óbitos no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-br-por-data.gif)
 
-O arquivo ```data/casos-br-total.csv``` até o momento trás o número total de casos suspeitos, confirmados e mortes no Brasil. Suas informações foram compiladas no script ```COVID-19_Brasil.ipynb```. Como foi interrompido o reporte de casos suspeitos, traremos aqui apenas os casos confirmados e as projeçoes.
+### Números e Números Por Milhão
 
-![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/Confirmados-Total.png)
+![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-casos-por-estado.png)
+
+![Óbitos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-obitos-por-estado.png)
 
 ## Mundo 
-O notebook ```Crescimento_Mundial.ipynb``` traz análises comparativas de números e casos e óbitos dos 10 países mais afetados. O resultado desse script são as seguintes imagens (referentes a 02 de Maio):
+O notebook ```Crescimento_Mundial.ipynb``` traz análises comparativas de números e casos e óbitos dos 10 países mais afetados. O resultado desse script são as seguintes imagens (referentes a 20 de Maio):
 
-![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-02-05.jpg)
+![Casos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-casos.png)
 
-![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-02-05.jpg)
+![Óbitos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-obitos.png)
 
 
 O notebook ```COVID-19_Mundial.ipynb``` compila as informações do mundo inteiro, divididas por região. As informações foram retiradas do repositório: https://github.com/CSSEGISandData/COVID-19 <br>
