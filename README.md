@@ -5,15 +5,15 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 
 ### Número de casos e óbitos acumulados
 
-|                                                                                ||
-|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|![Número de casos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true)|![Número de óbitos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png?raw=true)|
+![Número de casos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true)
+
+![Número de óbitos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png?raw=true)
 
 ### Número de casos e óbitos por dia: A curva que temos que achatar
 
-|                                                                                ||
-|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|![Número de casos por dia no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-por-dia.png?raw=true)|![Número de casos óbitos por dia no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia.png?raw=true)|
+![Número de casos por dia no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-por-dia.png?raw=true)
+
+![Número de óbitos por dia no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia.png?raw=true)
 
 ### Óbitos por Data do Óbito
 O script ```Obitos_BR_por_data.ipynb```replica o gif produzido pelo [Observatório COVID19](https://covid19br.github.io/%E2%80%9D#fig1%22) para fins didáticos. O plot animado imprime os reportes quase diários de óbitos por data de ocorrência do óbito, permitindo perceber que os reportes mais recentes são uma janela para o passado, tratando de óbitos ocorridos há dias ou semanas.
