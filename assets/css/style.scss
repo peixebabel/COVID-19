@@ -6,7 +6,7 @@
 .page-header{
   background-color: #ce1818;
   background-image:url(https://github.com/peixebabel/COVID-19/blob/master/imgs/header-wide.jpg?raw=true);
-  min-height: 350px;
+  height: 350px;
 
   position: relative;
   display: flex;
@@ -22,7 +22,6 @@
 a {
   position: absolute;
   margin-bottom: 1rem;
-  bottom:30px;
 }
 
 .main-content {
