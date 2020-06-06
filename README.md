@@ -7,7 +7,7 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 
 |                                                                                ||
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|<a target="_blank" rel="noopener noreferrer" href="https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true"> <img width=500, src="https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true"/> </a>|<a target="_blank" rel="noopener noreferrer" href="https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png?raw=true"><img width=500, src="https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png?raw=true"/></a>|
+|<a target="_blank" rel="noopener noreferrer" href="https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true"> <img width=500, src="https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true" class="inline"/> </a>|<a target="_blank" rel="noopener noreferrer" href="https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png?raw=true"><img width=500, src="https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png?raw=true" class="inline"/></a>|
 
 ### Número de casos e óbitos por dia: A curva que temos que achatar
 
