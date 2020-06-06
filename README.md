@@ -1,20 +1,35 @@
 # COVID-19
 Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
 
-## Brasil 
+## Atualizações do Brasil 
+
+### Número de casos e óbitos acumulados
+
+|                                                                                ||
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+|![Número de casos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png)|![Número de casos óbitos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png)|
+
+### Número de casos e óbitos por dia: A curva que temos que achatar
+
+|                                                                                ||
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+|![Número de casos por dia no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-por-dia.png)|![Número de casos óbitos por dia no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia.png)|
 
 ### Óbitos por Data do Óbito
 O script ```Obitos_BR_por_data.ipynb```replica o gif produzido pelo [Observatório COVID19](https://covid19br.github.io/%E2%80%9D#fig1%22) para fins didáticos. O plot animado imprime os reportes quase diários de óbitos por data de ocorrência do óbito, permitindo perceber que os reportes mais recentes são uma janela para o passado, tratando de óbitos ocorridos há dias ou semanas.
 
 ![Óbitos no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-br-por-data.gif)
 
-### Números e Números Por Milhão
+### Informações por Estado
 
-![Casos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-casos-por-estado.png)
 
-![Óbitos Confirmados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-obitos-por-estado.png)
+![Casos por estado](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-por-estado.png)
 
-## Mundo 
+![Óbitos por estado](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-estado.png)
+
+
+## Brasil em relação ao Mundo 
+
 O notebook ```Crescimento_Mundial.ipynb``` traz análises comparativas de números e casos e óbitos dos 10 países mais afetados. O resultado desse script são as seguintes imagens (referentes a 20 de Maio):
 
 ![Casos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-casos.png)
@@ -27,36 +42,6 @@ O resultado do notebook mundial é um gif animado com o avanço dos casos **conf
 
 ![Casos confirmados ao redor do mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/mundial-covid19.gif)
 
-#### Situação Mundial (17/03/2020)
-![Situação mundial (17/03/2020)](https://github.com/peixebabel/COVID-19/blob/master/imagens/mundial-valores-17-03.png)
 
-## China
 
-O notebook ```COVID-19_China.ipynb``` produz o gráfico apresentado na ![live do Átila Iamarino](https://www.youtube.com/watch?v=7jHgS4yxS0A), doutor em virologia. 
-> Note que as medidas preventivas da China que pararam o país, tiveram início em 23/01/2020. Ainda assim, depois dessa data, foram registrados dezenas de milhares de casos, principalmente daqueles que já haviam sido infectados antes do lockdown.
-
-![Casos por dia, China](https://github.com/peixebabel/COVID-19/blob/master/imagens/data-covid19-china.gif)
-
-## Comparação dos dados entre Itália e Brasil
-
-Casos confirmados na Itália e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.
-
-![Casos confirmados na Itália e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.](https://github.com/peixebabel/COVID-19/blob/master/imagens/covid-italia-projecao.png)
-
-Taxas de crescimento da Itália.
-
-![Taxas de crescimento da Itália](https://github.com/peixebabel/COVID-19/blob/master/imagens/crescimento-italia.png)
-
-Casos confirmados no Brasil e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.
-
-![Casos confirmados no Brasil e projeção baseado na média de crescimento de 10 dias. Em azul os casos confirmados, em vermelho a projeção.](https://github.com/peixebabel/COVID-19/blob/master/imagens/covid-brasil-projecao.png)
-
-Taxas de crescimento do Brasil.
-
-![Taxas de crescimento do Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/crescimento-brasil.png)
-
-Comparação entre as taxas de crescimento da Itália (em azul) e do Brasil (em vermelho).
-
-![Comparação entre as taxas de crescimento da Itália (em azul) e do Brasil (em vermelho)](https://github.com/peixebabel/COVID-19/blob/master/imagens/crescimento-comparativo.png)
-
-Os dados foram retirados do Ministério da Saúde do Brasil e do https://www.worldometers.info/coronavirus/
+Os dados foram retirados do [Ministério da Saúde do Brasil](http://covid.saude.gov.br/) (Indisponível desde 05/06/2020), do https://www.worldometers.info/coronavirus/, do [Observatório COVID](https://covid19br.github.io/) e do [Wesley Cota](https://covid19br.wcota.me/)
