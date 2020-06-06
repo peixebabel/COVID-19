@@ -1,7 +1,7 @@
 # COVID-19
 Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
 
-## Atualizações do Brasil 
+## Atualizações do Brasil de 05/06/2020
 
 ### Número de casos e óbitos acumulados
 
@@ -22,10 +22,9 @@ O script ```Obitos_BR_por_data.ipynb```replica o gif produzido pelo [Observatór
 
 ### Informações por Estado
 
+![Casos acumulados por estado](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-por-estado.png?raw=true)
 
-![Casos por estado](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-por-estado.png?raw=true)
-
-![Óbitos por estado](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-estado.png?raw=true)
+![Óbitos acumulados por estado](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-estado.png?raw=true)
 
 
 ## Brasil em relação ao Mundo 
