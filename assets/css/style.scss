@@ -6,9 +6,9 @@
 .page-header{
   background-color: #ce1818;
   background-image:url(https://github.com/peixebabel/COVID-19/blob/master/imgs/header-wide.jpg?raw=true);
-  height: 350px;
+  min-height: 350px;
 
-  position: absolute;
+  position: relative;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -16,11 +16,7 @@
 }
 
 .btn{
-  margin-top: 320px;
-  margin-bottom: 0rem;
-}
-
-a {
+  position: absolute;
   bottom:0;
 }
 
