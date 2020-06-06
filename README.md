@@ -45,11 +45,6 @@ Países como Itália e Alemanha conseguiram fazer o seu pico e sustentar o descr
 ![Óbitos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia-mundo.png?raw=true)
 
 
-### Referências:
-
-- [Ministério da Saúde do Brasil](http://covid.saude.gov.br) (Dados completos indisponíveis desde 05/06/2020)
-- [Worldometer](https://www.worldometers.info/coronavirus/)
-- [Observatório Covid](https://covid19br.github.io/)
-- [Wesley Cota](https://covid19br.wcota.me/) 
+#### Referências: [Ministério da Saúde do Brasil](http://covid.saude.gov.br) (Dados completos indisponíveis desde 05/06/2020), [Worldometer](https://www.worldometers.info/coronavirus/), [Observatório Covid](https://covid19br.github.io/), [Wesley Cota](https://covid19br.wcota.me/) 
 
 
