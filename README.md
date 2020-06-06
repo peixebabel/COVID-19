@@ -3,6 +3,14 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 
 ## Atualizações do Brasil de 05/06/2020
 
+| Casos Acumulados | Casos novos |
+|---------|---------|
+| <h2>651.692</h2> | <h2>36.751</h2> | 
+
+| Óbitos Acumulados | Óbitos Novos |
+|---------|---------|
+|<h2>35.135</h2> | <h2>1.114</h2> |
+
 ### Número de casos e óbitos acumulados
 
 ![Número de casos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true)
