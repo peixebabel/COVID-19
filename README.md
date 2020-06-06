@@ -7,7 +7,7 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 
 |                                                                                ||
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|![Número de casos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png)|![Número de casos óbitos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png)|
+|![Número de casos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos.png?raw=true)|![Número de casos óbitos acumulados no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos.png)|
 
 ### Número de casos e óbitos por dia: A curva que temos que achatar
 
