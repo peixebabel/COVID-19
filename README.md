@@ -29,11 +29,20 @@ O script ```Obitos_BR_por_data.ipynb```replica o gif produzido pelo [Observatór
 
 ## Brasil em relação ao Mundo 
 
+### Casos e Óbitos acumulados
+
 O notebook ```Crescimento_Mundial.ipynb``` traz análises comparativas de números e casos e óbitos dos 10 países mais afetados. O resultado desse script são as seguintes imagens (referentes a 20 de Maio):
 
-![Casos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-casos.png?raw=true)
+![Casos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-mundo.png?raw=true)
 
-![Óbitos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/2020-05-20-obitos.png?raw=true)
+![Óbitos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-mundo.png?raw=true)
+
+### Casos e Óbitos por dia
+Países como Itália e Alemanha conseguiram fazer o seu pico e sustentar o descrescimento de casos e óbitos diários, o que permitiu sua reabertura.
+
+![Casos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/casos-por-dia-mundo.png?raw=true)
+
+![Óbitos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia-mundo.png?raw=true)
 
 
 O notebook ```COVID-19_Mundial.ipynb``` compila as informações do mundo inteiro, divididas por região. As informações foram retiradas do repositório: https://github.com/CSSEGISandData/COVID-19 <br>
