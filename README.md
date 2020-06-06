@@ -45,11 +45,11 @@ Países como Itália e Alemanha conseguiram fazer o seu pico e sustentar o descr
 ![Óbitos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia-mundo.png?raw=true)
 
 
-O notebook ```COVID-19_Mundial.ipynb``` compila as informações do mundo inteiro, divididas por região. As informações foram retiradas do repositório: https://github.com/CSSEGISandData/COVID-19 <br>
-O resultado do notebook mundial é um gif animado com o avanço dos casos **confirmados** ao redor do mundo.
+> Referências:
+- <a href="http://covid.saude.gov.br/">Ministério da Saúde do Brasil</a> (Dados completos indisponíveis desde 05/06/2020)
+- <a href="https://www.worldometers.info/coronavirus/">Worldometer</a>
+- <a href="http://covid.saude.gov.br/">Ministério da Saúde do Brasil</a>
+- <a href="https://covid19br.github.io/">Observatório Covid</a>
+- <a href="https://covid19br.wcota.me/">Wesley Cota</a>
 
-![Casos confirmados ao redor do mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/mundial-covid19.gif?raw=true)
 
-
-
-Os dados foram retirados do [Ministério da Saúde do Brasil](http://covid.saude.gov.br/) (Indisponível desde 05/06/2020), do https://www.worldometers.info/coronavirus/, do [Observatório COVID](https://covid19br.github.io/) e do [Wesley Cota](https://covid19br.wcota.me/)
