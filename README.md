@@ -16,7 +16,7 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 ![Número de óbitos por dia no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia.png?raw=true)
 
 ### Óbitos por Data do Óbito
-O script ```Obitos_BR_por_data.ipynb```replica o gif produzido pelo [Observatório COVID19](https://covid19br.github.io/%E2%80%9D#fig1%22) para fins didáticos. O plot animado imprime os reportes quase diários de óbitos por data de ocorrência do óbito, permitindo perceber que os reportes mais recentes são uma janela para o passado, tratando de óbitos ocorridos há dias ou semanas.
+O script ```Obitos_BR_por_data.ipynb```replica o gif produzido pelo [Observatório COVID19](https://covid19br.github.io/) para fins didáticos. O plot animado imprime os reportes quase diários de óbitos por data de ocorrência do óbito, permitindo perceber que os reportes mais recentes são uma janela para o passado, tratando de óbitos ocorridos há dias ou semanas.
 
 ![Óbitos no Brasil](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-br-por-data.gif?raw=true)
 
