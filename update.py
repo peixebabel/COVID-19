@@ -9,13 +9,6 @@ Original file is located at
 
 print("Starting Brazil data")
 import requests, zipfile, io
-
-csse_path = "https://github.com/peixebabel/COVID-19/archive/master.zip"
-
-r = requests.get(csse_path, stream=True)
-z = zipfile.ZipFile(io.BytesIO(r.content))
-z.extractall()
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -26,9 +19,9 @@ from matplotlib.lines import Line2D
 import os, math
 from shutil import rmtree
 
-root_path = os.path.join(getcwd(), "data/")
-save_path = os.path.join(getcwd(), "imagens/")
-casos_br_path = os.path.join(os.getcwd(), root_path+"casos-br-total.csv")
+root_path = os.path.join(os.getcwd(), "data")
+save_path = os.path.join(os.getcwd(), "imagens")
+casos_br_path = os.path.join(root_path,"casos-br-total.csv")
 df = pd.read_csv(casos_br_path)
 
 """# Casos acumulados"""
@@ -185,8 +178,6 @@ def plot_estado(df, column, filename, title, colors):
 
 plot_estado(df, 'Ministério', 'casos-por-estado', 'Casos', ['royalblue', 'dodgerblue'])
 plot_estado(df, 'Óbitos', 'obitos-por-estado', 'Óbitos', ['darkred', 'salmon'])
-
-rmtree("COVID-19-master")
 
 """# Crescimento Mundial"""
 
