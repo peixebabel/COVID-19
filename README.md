@@ -1,7 +1,7 @@
 # COVID-19
 Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
 
-## Atualizações do Brasil de 05/06/2020
+## Atualizações do Brasil de 06/06/2020
 
 ### De acordo com as Secretarias de Saúde
 
