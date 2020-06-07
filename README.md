@@ -4,6 +4,7 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 ## Atualizações do Brasil de 05/06/2020
 
 ### De acordo com as Secretarias de Saúde
+
 | Casos Acumulados | Casos novos |
 |---------|---------|
 | 675.898 | 30.127 | 
@@ -13,6 +14,7 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 | 36.026 | 1.000 |
 
 ### De acordo com o Ministério da Saúde
+
 | Casos Acumulados | Casos novos |
 |---------|---------|
 | 672.846 | 27.075 | 
