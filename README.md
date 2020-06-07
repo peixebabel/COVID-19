@@ -1,15 +1,27 @@
 # COVID-19
 Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
 
-## Atualizações do Brasil de 05/06/2020
+## Atualizações do Brasil de 06/06/2020
+
+### De acordo com as Secretarias de Saúde
 
 | Casos Acumulados | Casos novos |
 |---------|---------|
-| 651.692 | 36.751 | 
+| 675.898 | 30.127 | 
 
 | Óbitos Acumulados | Óbitos Novos |
 |---------|---------|
-|35.135 | 1.114 |
+| 36.026 | 1.000 |
+
+### De acordo com o Ministério da Saúde
+
+| Casos Acumulados | Casos novos |
+|---------|---------|
+| 672.846 | 27.075 | 
+
+| Óbitos Acumulados | Óbitos Novos |
+|---------|---------|
+|35.930 | 904 |
 
 ### Número de casos e óbitos acumulados
 
@@ -53,6 +65,11 @@ Países como Itália e Alemanha conseguiram fazer o seu pico e sustentar o descr
 ![Óbitos no Mundo](https://github.com/peixebabel/COVID-19/blob/master/imagens/obitos-por-dia-mundo.png?raw=true)
 
 
-#### Referências: [Ministério da Saúde do Brasil](http://covid.saude.gov.br) --Dados completos indisponíveis desde 05/06/2020--, [Worldometer](https://www.worldometers.info/coronavirus/), [Observatório Covid](https://covid19br.github.io/), [Wesley Cota](https://covid19br.wcota.me/) 
-
+#### Referências: 
+* [Ministério da Saúde do Brasil](http://covid.saude.gov.br) --Dados completos indisponíveis desde 05/06/2020--
+* [Observatório Covid](https://covid19br.github.io/)
+* [Brasil.io](https://brasil.io/covid19/)
+* [Wesley Cota](https://covid19br.wcota.me/)
+* [Lagom Data](https://www.lagomdata.com.br/coronavirus)
+* [Worldometer](https://www.worldometers.info/coronavirus/)
 
