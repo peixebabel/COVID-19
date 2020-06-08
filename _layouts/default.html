@@ -28,8 +28,60 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
-
+      <h1> COVID-19 </h1>
+      <p> Dados e plots sobre as informações do Corona Virus levantadas pelo [Peixe Babel](http://canalpeixebabel.com.br/). </p>
+      
+      <h2>Atualizações do Brasil de 06/06/2020</h2>
+      
+      <h4> De acordo com as Secretarias de Saúde</h4>
+      <table style="width:40%">
+        <tr>
+          <th>Casos Acumulados</th>
+          <th>Casos Novos</th> 
+        </tr>
+        <tr>
+          <td>675.898</td>
+          <td>30.127</td>
+        </tr>
+      </table>
+      <table style="width:40%">
+        <tr>
+          <th>Óbitos Acumulados</th>
+          <th>Óbitos Novos</th> 
+        </tr>
+        <tr>
+          <td>36.026</td>
+          <td>1.000</td>
+        </tr>
+      </table>
+      
+      <h4> De acordo com o Ministério da Saúde</h4>
+      <table style="width:40%">
+        <tr>
+          <th>Casos Acumulados</th>
+          <th>Casos Novos</th> 
+        </tr>
+        <tr>
+          <td>672.846</td>
+          <td>27.075</td>
+        </tr>
+      </table>
+      <table style="width:40%">
+        <tr>
+          <th>Óbitos Acumulados</th>
+          <th>Óbitos Novos</th> 
+        </tr>
+        <tr>
+          <td>35.930</td>
+          <td>904</td>
+        </tr>
+      </table>
+      
+      <h4> Número de casos e óbitos acumulados </h4>
+      {% include casos.html %}
+      
+      {% include obitos.html %}
+      
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
