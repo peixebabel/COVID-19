@@ -34,7 +34,7 @@
       <h2>Atualizações do Brasil de 06/06/2020</h2>
       
       <h4> De acordo com as Secretarias de Saúde</h4>
-      <table style="width:40%">
+      <table style="width:60%">
         <tr>
           <th>Casos Acumulados</th>
           <th>Casos Novos</th> 
@@ -44,7 +44,7 @@
           <td>30.127</td>
         </tr>
       </table>
-      <table style="width:40%">
+      <table style="width:60%">
         <tr>
           <th>Óbitos Acumulados</th>
           <th>Óbitos Novos</th> 
@@ -56,7 +56,7 @@
       </table>
       
       <h4> De acordo com o Ministério da Saúde</h4>
-      <table style="width:40%">
+      <table style="width:60%">
         <tr>
           <th>Casos Acumulados</th>
           <th>Casos Novos</th> 
@@ -66,7 +66,7 @@
           <td>27.075</td>
         </tr>
       </table>
-      <table style="width:40%">
+      <table style="width:60%">
         <tr>
           <th>Óbitos Acumulados</th>
           <th>Óbitos Novos</th> 
@@ -77,10 +77,17 @@
         </tr>
       </table>
       
-      <h4> Número de casos e óbitos acumulados </h4>
+      
+      <h2> Número de casos e óbitos acumulados </h2>
       {% include casos.html %}
       
       {% include obitos.html %}
+      
+      <h2> Número de casos e óbitos por dia </h2>
+      
+      {% include casos-por-dia.html %}
+      
+      {% include obitos-por-dia.html %}
       
       <footer class="site-footer">
         {% if site.github.is_project_page %}
