@@ -70,6 +70,7 @@ Países como Itália e Alemanha conseguiram fazer o seu pico e sustentar o descr
 * [Observatório Covid](https://covid19br.github.io/)
 * [Brasil.io](https://brasil.io/covid19/)
 * [Wesley Cota](https://covid19br.wcota.me/)
+* [@coronavirusbra1](https://coronavirusbra1.github.io/)
 * [Lagom Data](https://www.lagomdata.com.br/coronavirus)
 * [Worldometer](https://www.worldometers.info/coronavirus/)
 
