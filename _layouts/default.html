@@ -89,6 +89,22 @@
       
       {% include obitos-por-dia.html %}
       
+      <h2>Informações por estado </h2>
+      
+      {% include casos-por-estado.html %}
+      
+      {% include obitos-por-estado.html %}
+      
+      <h2> Brasil em relação ao Mundo </h2>
+      
+      <h3> Casos e Óbitos acumulados </h3>
+      
+      {% include casos-mundo.html %}
+      
+      {% include obitos-mundo.html %}
+      
+      <h3> Casos e Óbitos por dia </h3>
+      
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
