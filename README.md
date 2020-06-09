@@ -1,27 +1,27 @@
 # COVID-19
 Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
 
-## Atualizado em 08/06/2020, dados referentes a 08/06/2020
+## Atualizado em 09/06/2020, dados referentes a 09/06/2020
 
 ### De acordo com as Secretarias de Saúde
 
 | Casos Acumulados | Casos novos |
 |---------|---------|
-| 711.337 | 16.879 | 
+| 742.586 | 30.458 | 
 
 | Óbitos Acumulados | Óbitos Novos |
 |---------|---------|
-| 37.266 | 682 |
+| 38.524 | 1.138 |
 
 ### De acordo com o Ministério da Saúde
 
 | Casos Acumulados | Casos novos |
 |---------|---------|
-| 707.412 | 15.654 | 
+| 739.503 | 32.091 | 
 
 | Óbitos Acumulados | Óbitos Novos |
 |---------|---------|
-| 37.134 | 679 |
+| 38.406 | 1.272 |
 
 ### Número de casos e óbitos acumulados
 
