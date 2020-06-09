@@ -176,7 +176,7 @@ def plot_estado(df, column, filename, title, colors):
 
   plt.savefig(os.path.join(save_path, filename+'.png'), format='png', dpi=150, bbox_inches='tight')
 
-plot_estado(df, 'Ministério', 'casos-por-estado', 'Casos', ['royalblue', 'dodgerblue'])
+plot_estado(df, 'Secretarias', 'casos-por-estado', 'Casos', ['royalblue', 'dodgerblue'])
 plot_estado(df, 'Óbitos', 'obitos-por-estado', 'Óbitos', ['darkred', 'salmon'])
 
 """# Crescimento Mundial"""
