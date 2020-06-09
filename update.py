@@ -208,6 +208,7 @@ for country in np.unique(countries):
   ts['Confirmed'][country] = []
 
 for k, csv in enumerate(sorted(os.listdir(root_path))):
+  print("\r{0}-{1}".format(k, len(os.listdir(root_path)), end="", flush=True))
   if not csv[-3:] == 'csv': continue
     
   path = os.path.join(root_path, csv)
