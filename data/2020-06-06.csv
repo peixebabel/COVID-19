@@ -1,32 +1,32 @@
-https://covid.saude.gov.br/ e https://covid19br.wcota.me/,,,
-,,,
-,,,
-Estado,Secretarias,Ministério,Óbitos
-Acre (AC),,7525,201
-Alagoas (AL),,14820,582
-Amapá (AP),,12773,269
-Amazonas (AM),,48785,2232
-Bahia (BA),,27396,846
-Ceará (CE),,64156,3982
-Distrito Federal(DF),,15850,208
-Espírito Santo (ES),,19321,816
-Goiás (GO),,5909,172
-Maranhão (MA),,47627,1169
-Mato Grosso (MT),,3774,99
-Mato Grosso do Sul (MS),,2132,21
-Minas Gerais (MG),,14939,368
-Pará (PA),,54839,3647
-Paraíba (PB),,19787,467
-Paraná (PR),,6605,232
-Pernambuco (PE),,39361,3270
-Piauí (PI),,7493,231
-Rio de Janeiro (RJ),,64533,6639
-Rio Grande do Norte (RN),,9449,410
-Rio Grande do Sul (RS),,12037,283
-Rondônia (RO),,7700,228
-Roraima (RR),,5645,139
-Santa Catarina (SC),,11285,166
-São Paulo (SP),,140549,9058
-Sergipe (SE),,8972,208
-Tocantins (TO),,5505,96
-TOTAL,,678767,36039
+https://covid.saude.gov.br/ e https://covid19br.wcota.me/,,,,
+,,,,
+,,,,
+Estado,Secretarias,Ministério,Óbitos,Óbitos Ministério
+Acre (AC),7525,7525,201,201
+Alagoas (AL),14818,14818,582,582
+Amapá (AP),48785,48785,2232,2232
+Amazonas (AM),12773,12773,269,269
+Bahia (BA),27396,27396,846,846
+Ceará (CE),63575,63575,3965,3965
+Distrito Federal(DF),15850,15850,208,208
+Espírito Santo (ES),18950,18950,806,806
+Goiás (GO),5770,5669,172,172
+Maranhão (MA),47593,45470,1170,1132
+Mato Grosso (MT),14939,14939,368,368
+Mato Grosso do Sul (MS),2253,2132,21,21
+Minas Gerais (MG),3788,3662,101,96
+Pará (PA),53860,53176,3665,3612
+Paraíba (PB),19787,19787,467,467
+Paraná (PR),39361,39361,3270,3270
+Pernambuco (PE),7478,7105,239,224
+Piauí (PI),6693,6605,239,232
+Rio de Janeiro (RJ),64533,64533,6639,6639
+Rio Grande do Norte (RN),9449,9449,410,410
+Rio Grande do Sul (RS),7701,7700,228,228
+Rondônia (RO),5529,5238,142,139
+Roraima (RR),12037,12037,283,283
+Santa Catarina (SC),11285,11285,166,166
+São Paulo (SP),8972,8972,208,208
+Sergipe (SE),140549,140549,9058,9058
+Tocantins (TO),5644,5505,99,96
+TOTAL,676893,672846,36054,35930
