@@ -1,7 +1,7 @@
 # COVID-19
 Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
 
-## Atualizado em 09/06/2020, dados referentes a 09/06/2020
+## Atualizado em 12/06/2020, dados referentes a 11/06/2020
 
 ### De acordo com as Secretarias de Saúde
 
