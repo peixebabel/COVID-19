@@ -7,11 +7,11 @@ Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel
 
 | Casos Acumulados | Casos novos |
 |---------|---------|
-| 929.265 | 24.641 | 
+| 929.265 | 35.943 | 
 
 | Óbitos Acumulados | Óbitos Novos |
 |---------|---------|
-| 445.472 | 807 |
+| 45.472 | 1.282 |
 
 ### De acordo com o Ministério da Saúde
 
