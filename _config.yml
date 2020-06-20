@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
-total: 1.038.306
-diario: 53.178
-obitos: 49.085
-obitosdiario: 1139
-totalms: 1.032.913
-diarioms: 54.771
-obitosms: 48.954
-obitosdiarioms: 1.206
+total: "1.038.306"
+diario: "53.178"
+obitos: "49.085"
+obitosdiario: "1139"
+totalms: "1.032.913"
+diarioms: "54.771"
+obitosms: "48.954"
+obitosdiarioms: "1.206"
