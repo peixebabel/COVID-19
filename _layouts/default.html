@@ -31,7 +31,7 @@
       <h1> COVID-19 </h1>
       <p> Dados e plots sobre as informações do Corona Virus levantadas pelo <a href="http://canalpeixebabel.com.br/">Peixe Babel</a>. </p>
       
-      <h2>Atualizado em 17/06/2020, dados referentes a 16/06/2020</h2>
+      <h2>Dados referentes a {{ site.dataref }}.</h2>
       
       <h4> De acordo com as Secretarias de Saúde</h4>
       <table style="width:60%">
@@ -40,8 +40,8 @@
           <th>Casos Novos</th> 
         </tr>
         <tr>
-          <td>929.265</td>
-          <td>35.943</td>
+          <td>{{ site.total }}</td>
+          <td>{{ site.diario }}</td>
         </tr>
       </table>
       <table style="width:60%">
@@ -50,8 +50,8 @@
           <th>Óbitos Novos</th> 
         </tr>
         <tr>
-          <td>45.472</td>
-          <td>1.282</td>
+          <td>{{ site.obitos }}</td>
+          <td>{{ site.obitosdiario }}</td>
         </tr>
       </table>
       
@@ -62,8 +62,8 @@
           <th>Casos Novos</th> 
         </tr>
         <tr>
-          <td>923.189</td>
-          <td>34.918</td>
+          <td>{{ site.totalms }}</td>
+          <td>{{ site.diarioms }}</td>
         </tr>
       </table>
       <table style="width:60%">
@@ -72,8 +72,8 @@
           <th>Óbitos Novos</th> 
         </tr>
         <tr>
-          <td>45.241</td>
-          <td>1.282</td>
+          <td>{{ site.obitosms }}</td>
+          <td>{{ site.obitosdiarioms }}</td>
         </tr>
       </table>
       
